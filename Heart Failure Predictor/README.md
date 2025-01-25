@@ -4,9 +4,9 @@ This project predicts the risk of heart failure using patient health metrics. It
 ## 🗂️ Project Structure
 Heart_Failure_Predictor_RFC.ipynb  (Code notebook)
 
-heart.csv  (Dataset)
-
 README.md  (Documentation)
+
+heart.csv  (Dataset)
 
 ## ⚙️ Workflow
 1. Data Preprocessing:
