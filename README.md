@@ -1,1 +1,2 @@
-Some simple ML projects
+Some simple ML projects that are unclassified
+
